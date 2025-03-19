@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|d:\\enzo\\aulasfiap\\.net\\sprint3\\api.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|d:\\enzo\\aulasfiap\\.net\\sprint3\\api.net\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|d:\\enzo\\aulasfiap\\.net\\sprint3\\api.net\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|d:\\enzo\\aulasfiap\\.net\\sprint3\\api.net\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|d:\\enzo\\aulasfiap\\.net\\sprint3\\api.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|d:\\enzo\\aulasfiap\\.net\\sprint3\\api.net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -23,16 +27,16 @@
       "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:services\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|d:\\enzo\\aulasfiap\\.net\\sprint3\\api.net\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|d:\\enzo\\aulasfiap\\.net\\sprint3\\api.net\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|d:\\enzo\\aulasfiap\\.net\\sprint3\\api.net\\api.net.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:api.net.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|d:\\enzo\\aulasfiap\\.net\\sprint3\\api.net\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|d:\\enzo\\aulasfiap\\.net\\sprint3\\api.net\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA383140-0FC7-4B50-AB72-97DA3188A745}|API.NET.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,49 +46,37 @@
       "DocumentGroups": [
         {
           "DockedHeight": 277,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\.NET\\Sprint3\\API.NET\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "WeatherForecast.cs",
-              "ToolTip": "D:\\Enzo\\AulasFiap\\.NET\\Sprint3\\API.NET\\WeatherForecast.cs",
-              "RelativeToolTip": "WeatherForecast.cs",
+              "DocumentIndex": 6,
+              "Title": "API.NET",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\.NET\\Sprint3\\API.NET\\API.NET.csproj",
+              "RelativeDocumentMoniker": "API.NET.csproj",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\.NET\\Sprint3\\API.NET\\API.NET.csproj",
+              "RelativeToolTip": "API.NET.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T18:14:37.22Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-19T15:25:12.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\.NET\\Sprint3\\API.NET\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "D:\\Enzo\\AulasFiap\\.NET\\Sprint3\\API.NET\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-11T15:42:32.139Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Enzo\\AulasFiap\\.NET\\Sprint3\\API.NET\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Enzo\\AulasFiap\\.NET\\Sprint3\\API.NET\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T18:19:13.889Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Enzo\\AulasFiap\\.NET\\Sprint3\\API.NET\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -103,48 +95,74 @@
               "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
               "ToolTip": "D:\\Enzo\\AulasFiap\\.NET\\Sprint3\\API.NET\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAwwFEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwFUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T18:07:15.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AppConfig.cs",
               "DocumentMoniker": "D:\\Enzo\\AulasFiap\\.NET\\Sprint3\\API.NET\\Services\\AppConfig.cs",
               "RelativeDocumentMoniker": "Services\\AppConfig.cs",
               "ToolTip": "D:\\Enzo\\AulasFiap\\.NET\\Sprint3\\API.NET\\Services\\AppConfig.cs",
               "RelativeToolTip": "Services\\AppConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T18:05:29.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Enzo\\AulasFiap\\.NET\\Sprint3\\API.NET\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
               "ToolTip": "D:\\Enzo\\AulasFiap\\.NET\\Sprint3\\API.NET\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwA0AAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T18:03:07.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Usuario.cs",
               "DocumentMoniker": "D:\\Enzo\\AulasFiap\\.NET\\Sprint3\\API.NET\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "Models\\Usuario.cs",
               "ToolTip": "D:\\Enzo\\AulasFiap\\.NET\\Sprint3\\API.NET\\Models\\Usuario.cs",
               "RelativeToolTip": "Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T18:02:11.019Z"
+              "WhenOpened": "2025-03-08T18:02:11.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\.NET\\Sprint3\\API.NET\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\.NET\\Sprint3\\API.NET\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T15:42:32.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Enzo\\AulasFiap\\.NET\\Sprint3\\API.NET\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\Enzo\\AulasFiap\\.NET\\Sprint3\\API.NET\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:14:37.22Z"
             }
           ]
         }

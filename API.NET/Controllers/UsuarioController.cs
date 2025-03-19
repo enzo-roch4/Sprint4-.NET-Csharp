@@ -16,46 +16,51 @@ public class UsuarioController : ControllerBase
         _context = context;
     }
 
-    // GET: api/usuario
-    [HttpGet]
-    public async Task<ActionResult<IEnumerable<Usuario>>> Get()
-    {
-        var usuarios = await _context.Usuarios.ToListAsync();
-        return Ok(usuarios);
-    }
-
-    // GET: api/usuario/{id}
-    [HttpGet("{id}")]
+    // GET: api/usuario/buscar/{id}
+     /// <summary>
+    /// Obtém um usuário pelo ID.
+    /// </summary>
+    /// <param name="id">ID do usuário.</param>
+    /// <returns>Retorna os dados do usuário.</returns>
+    [HttpGet("/api/usuario/buscar/{id}")]
     public async Task<ActionResult<Usuario>> GetById(int id)
     {
-        var usuario = await _context.Usuarios.FindAsync(id);
+        var usuario = await _context.Usuario.FindAsync(id);
         if (usuario == null)
             return NotFound(new { message = "Usuário não encontrado" });
 
         return Ok(usuario);
     }
 
-    // POST: api/usuario
-    [HttpPost]
+    // POST: api/usuario/cadastrar
+    /// <summary>
+    /// Cadastra um usuário.
+    /// </summary>
+    /// <returns>Cadastra os dados do usuário.</returns>
+    [HttpPost("/api/usuario/cadastrar/")]
     public async Task<ActionResult<Usuario>> Post([FromBody] Usuario usuario)
     {
         if (usuario == null)
             return BadRequest(new { message = "Dados inválidos" });
 
-        _context.Usuarios.Add(usuario);
+        _context.Usuario.Add(usuario);
         await _context.SaveChangesAsync();
 
-        return CreatedAtAction(nameof(GetById), new { id = usuario.Id }, usuario);
+        return CreatedAtAction(nameof(GetById), new { id = usuario.id }, usuario);
     }
 
-    // PUT: api/usuario/{id}
-    [HttpPut("{id}")]
+    // PUT: api/usuario/atualizar/{id}
+    /// <summary>
+    /// Atualiza os dados de um usuário.
+    /// </summary>
+    /// <returns>Mensagem informando que o usuário foi atualizado.</returns>
+    [HttpPut("/api/usuario/atualizar/{id}")]
     public async Task<IActionResult> Put(int id, [FromBody] Usuario usuario)
     {
-        if (id != usuario.Id)
+        if (id != usuario.id)
             return BadRequest(new { message = "ID inconsistente" });
 
-        var usuarioExistente = await _context.Usuarios.FindAsync(id);
+        var usuarioExistente = await _context.Usuario.FindAsync(id);
         if (usuarioExistente == null)
             return NotFound(new { message = "Usuário não encontrado" });
 
@@ -65,15 +70,19 @@ public class UsuarioController : ControllerBase
         return NoContent(); // 204 - Atualização bem-sucedida sem retorno
     }
 
-    // DELETE: api/usuario/{id}
-    [HttpDelete("{id}")]
+    // DELETE: api/usuario/apagar/{id}
+    /// <summary>
+    /// Exclui um usuário.
+    /// </summary>
+    /// <returns>Mensagem confirmando exclusão.</returns>
+    [HttpDelete("/api/usuario/apagar/{id}")]
     public async Task<IActionResult> Delete(int id)
     {
-        var usuario = await _context.Usuarios.FindAsync(id);
+        var usuario = await _context.Usuario.FindAsync(id);
         if (usuario == null)
             return NotFound(new { message = "Usuário não encontrado" });
 
-        _context.Usuarios.Remove(usuario);
+        _context.Usuario.Remove(usuario);
         await _context.SaveChangesAsync();
 
         return Ok(new { message = "Usuário removido com sucesso" });

@@ -13,11 +13,11 @@ namespace API.NET.Data
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
-        public DbSet<Usuario> Usuarios { get; set; }
+        public DbSet<Usuario> Usuario { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Usuario>()
-                .ToTable("Usuario", schema: "ENZO");
+                .ToTable("USUARIO", schema: "RM553643");
         }
 
 
