@@ -33,3 +33,6 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+builder.Services.AddHttpClient<AuthServiceClient>();
+

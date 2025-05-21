@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Enzo\\AulasFiap\\.NET\\Sprint3\\API.NET\\API.NET.csproj": {}
+    "C:\\Users\\labsfiap\\Source\\Repos\\Sprint3-.NET\\API.NET\\API.NET.csproj": {}
   },
   "projects": {
-    "D:\\Enzo\\AulasFiap\\.NET\\Sprint3\\API.NET\\API.NET.csproj": {
+    "C:\\Users\\labsfiap\\Source\\Repos\\Sprint3-.NET\\API.NET\\API.NET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Enzo\\AulasFiap\\.NET\\Sprint3\\API.NET\\API.NET.csproj",
+        "projectUniqueName": "C:\\Users\\labsfiap\\Source\\Repos\\Sprint3-.NET\\API.NET\\API.NET.csproj",
         "projectName": "API.NET",
-        "projectPath": "D:\\Enzo\\AulasFiap\\.NET\\Sprint3\\API.NET\\API.NET.csproj",
-        "packagesPath": "C:\\Users\\enzof\\.nuget\\packages\\",
-        "outputPath": "D:\\Enzo\\AulasFiap\\.NET\\Sprint3\\API.NET\\obj\\",
+        "projectPath": "C:\\Users\\labsfiap\\Source\\Repos\\Sprint3-.NET\\API.NET\\API.NET.csproj",
+        "packagesPath": "C:\\Softwares\\Nuget",
+        "outputPath": "C:\\Users\\labsfiap\\Source\\Repos\\Sprint3-.NET\\API.NET\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\enzof\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "c:\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,6 +58,10 @@
               "target": "Package",
               "version": "[8.0.4, )"
             },
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
             "Oracle.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -86,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
